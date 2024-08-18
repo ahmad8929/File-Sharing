@@ -17,7 +17,7 @@ The backend is built with Node.js and handles file uploads and serving.
 1. **Frontend**:
    - Navigate to the `frontend` directory.
    - Install dependencies: `npm install`.
-   - Start the development server: `npm start`.
+   - Start the development server: `npm run`.
 
 2. **Backend**:
    - Navigate to the `backend` directory.
